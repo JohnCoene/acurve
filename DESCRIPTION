@@ -1,0 +1,11 @@
+Package: acurve
+Title: 'aframer' Curve Component
+Version: 0.0.1
+Authors@R: person("John", "Coene", email = "jcoenep@gmail.com", role = c("aut", "cre"))
+Description: 'aframer' curve component.
+Depends: R (>= 3.4.4)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: htmltools, aframer
+RoxygenNote: 6.1.0
